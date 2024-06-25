@@ -270,3 +270,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
