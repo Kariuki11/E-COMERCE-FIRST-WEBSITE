@@ -1,64 +1,3 @@
-/* header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-} */
-
-/* General Reset */
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: Arial, sans-serif;
-}
-
-/* Header Section */
-/* #header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #f8f8f8;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-#header .logo {
-    max-height: 50px; /* Adjust the size of the logo */
-}
-
-/* #navbar {
-    list-style: none;
-    display: flex;
-}
-
-#navbar li {
-    margin-left: 20px;
-}
-
-#navbar a {
-    text-decoration: none;
-    color: #333;
-    font-size: 16px;
-    transition: color 0.3s;
-}
-
-#navbar a:hover,
-#navbar a:active {
-    color: #088178;
-}
-
-#navbar i {
-    font-size: 20px;
-    color: #333;
-    transition: color 0.3s;
-}
-
-#navbar i:hover {
-    color: #007bff;
-} */ */ */
 
 /* General Reset */
 * {
@@ -138,7 +77,11 @@ body {
     left: 0;
 }
 
-/* Home Page */
+.section-p1 {
+    padding: 40px 80px;
+}
+
+
 #hero{
     background-image: url(Images/header.jpg);
     height: 90vh;
@@ -168,5 +111,10 @@ body {
     cursor: pointer;
     font-weight: 700;
     font-size: 15px;
+}
+
+#feature .fe-box{
+    width: 180%;
+    text-align: center;
 }
 
