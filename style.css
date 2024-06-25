@@ -174,11 +174,46 @@ body {
     text-align: center;
 }
 
-#product1 .pro-container{
+/* #product1 .pro-container{
     display: flex;
     justify-content: space-between;
     padding: 20px;
+} */
+/* #product1 .pro-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
 }
+
+.pro {
+    flex: 1 1 calc(25% - 20px); /* Adjust the percentage as needed */
+    /* margin: 10px;
+    box-sizing: border-box;
+}
+
+.pro img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.des {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.star {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+ */ */
 
 #product1 .pro {
     width: 23%;
