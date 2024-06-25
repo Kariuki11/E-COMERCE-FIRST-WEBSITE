@@ -113,13 +113,7 @@ body {
     font-size: 15px;
 }
 
-/* #feature .fe-box{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-} */
-#feature {
+#feature .fe-box{
     display: flex;
     align-items: center;
     justify-content: space-between;
