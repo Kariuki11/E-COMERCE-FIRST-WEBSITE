@@ -113,6 +113,20 @@ body {
     font-size: 15px;
 }
 
+/* #feature .fe-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} */
+#feature {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
 #feature .fe-box img{
     width: 10%;
     height: 10%;
