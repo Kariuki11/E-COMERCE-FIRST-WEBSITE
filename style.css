@@ -299,6 +299,8 @@ body {
     color: green;
 }
 
-button.normal 
+button.normal{
+    font-size: 14px;
+}
 
 1hour 04minutes
