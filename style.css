@@ -284,4 +284,15 @@ body {
     background-position: center;
 }
 
+#banner h4 {
+    color: black;
+    font-size: 16px;
+}
+
+#banner h2 {
+    color: black;
+    font-size: 30px;
+    padding: 10px 0;
+}
+
 1hour 04minutes
