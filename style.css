@@ -277,7 +277,11 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    backgroun
+    background-image: url("Images/Background-Things/discount.jpg");
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
 }
 
 1hour 04minutes
