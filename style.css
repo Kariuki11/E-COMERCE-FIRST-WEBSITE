@@ -299,7 +299,10 @@ body {
     color: green;
 }
 
-#banner
+#banner button:hover {
+    background-color: #088178;
+    color: white;
+}
 
 button.normal{
     font-size: 14px;
