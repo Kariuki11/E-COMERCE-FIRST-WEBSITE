@@ -397,6 +397,15 @@ button.white{
     margin-bottom: 20px;
 }
 
+#banner3 .banner-box2{
+    background-image: url(Images/Background-Things/dis11.jpg);
+}
+
+#banner3 .banner-box3{
+    background-image: url(Images/Background-Things/dis13.jpg);
+}
+
+
 #banner3 h2{
     color: green;
     font-weight: 900;
@@ -404,7 +413,7 @@ button.white{
 }
 
 #banner3 h3{
-    color: blue;
+    color: red;
     font-weight: 800;
     font-size: 22px;
 }
