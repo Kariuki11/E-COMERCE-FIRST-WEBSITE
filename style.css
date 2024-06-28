@@ -376,4 +376,29 @@ button.white{
     border: 1px solid #088178;
 }
 
+#banner3 .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url("Images/Background-Things/dis12.jpg");
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#banner3 h2{
+    color: green;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+#banner3 h3{
+    color: blue;
+    font-weight: 800;
+    font-size: 22px;
+}
 
