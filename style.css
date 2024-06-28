@@ -317,6 +317,10 @@ button.normal{
     transition: 0.2s;
 }
 
+#sm-banner{
+    display: flex;
+}
+
 
 #sm-banner .banner-box{
     display: flex;
