@@ -348,6 +348,10 @@ button.white{
     padding: 30px;
 }
 
+#sm-banner .banner-box2{
+    background-image: url("Images/Background-Things/dis7.jpg");
+}
+
 #sm-banner h4{
     color: white;
     font-size: 20px;
