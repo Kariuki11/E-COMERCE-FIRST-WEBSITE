@@ -317,6 +317,19 @@ button.normal{
     transition: 0.2s;
 }
 
+button.normal{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: #cce7d0;
+    background-color: black;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+}
+
 #sm-banner{
     display: flex;
     justify-content: space-between;
