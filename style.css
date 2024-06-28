@@ -317,11 +317,13 @@ button.normal{
     transition: 0.2s;
 }
 
-#sm-banner{
+/* #sm-banner{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-}
+} */
+
+
 
 
 #sm-banner .banner-box{
