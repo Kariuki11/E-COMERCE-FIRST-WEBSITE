@@ -327,13 +327,13 @@ button.normal{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
+    align-items: flex-start;
     background-image: url("Images/Background-Things/dis4.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
     background-position: center;
+    padding: 30px;
 }
 
 
