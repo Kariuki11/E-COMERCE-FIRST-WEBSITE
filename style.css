@@ -323,36 +323,6 @@ button.normal{
     flex-wrap: wrap;
 } */
 
-#sm-banner {
-    display: flex;
-    justify-content: space-between;
-    width: 100%; /* Ensure the container takes the full width */
-}
-
-.left-image {
-    align-self: flex-start; /* This ensures the image aligns to the left */
-}
-
-.right-image {
-    align-self: flex-end; /* This ensures the image aligns to the right */
-}
-
-#sm-banner {
-    display: flex;
-    justify-content: space-between;
-    width: 100%; /* Ensure the container takes the full width */
-}
-
-.left-image {
-    margin-right: 1cm; /* Add a 1cm margin to the right */
-}
-
-.right-image {
-    margin-left: 1cm; /* Add a 1cm margin to the left */
-}
-
-
-
 
 
 
