@@ -325,8 +325,8 @@ button.normal{
     align-items: center;
     text-align: center;
     background-image: url("Images/Background-Things/dis4.jpg");
-    width: 100%;
-    height: 40vh;
+    min-width: 580px;
+    height: 50vh;
     background-size: cover;
     background-position: center;
 }
