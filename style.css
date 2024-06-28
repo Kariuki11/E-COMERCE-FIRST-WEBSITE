@@ -317,15 +317,14 @@ button.normal{
     transition: 0.2s;
 }
 
-button.normal{
-    font-size: 14px;
+button.white{
+    font-size: 13px;
     font-weight: 600;
-    padding: 15px 30px;
-    color: #cce7d0;
-    background-color: black;
-    border-radius: 4px;
+    padding: 11px 18px;
+    color: white;
+    background-color: transparent;
     cursor: pointer;
-    border: none;
+    border: 1px solid #fff;
     outline: none;
     transition: 0.2s;
 }
