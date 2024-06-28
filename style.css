@@ -367,4 +367,9 @@ button.white{
     padding: 15px;
 }
 
+#sm-banner .banner-box:hover button{
+    background-color: green;
+    border: 1px solid #088178;
+}
+
 
