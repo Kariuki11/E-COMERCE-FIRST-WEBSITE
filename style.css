@@ -475,10 +475,17 @@ footer{
     justify-content: space-between;
 }
 
-footer{
+footer .col{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+
+footer .col img {
+    max-width: 60px; /* Adjust the size as needed */
+    height: auto;
 }
 
 
