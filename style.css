@@ -423,9 +423,9 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("Images/Background-Things/bg3.jpg");
+    /* background-image: url("Images/Background-Things/bg3.jpg"); */
     background-repeat: no-repeat;
     background-position: 20%, 30%;
-    /* background-color: blue; */
+    background-color: rgba(0, 0, 255, 0.769);
 }
 
