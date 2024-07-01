@@ -423,5 +423,6 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
+    background-image: url("Images/Background-Things/bg1.jpg");
 }
 
