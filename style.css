@@ -457,6 +457,7 @@ button.white{
 #newsletter button{
     background: #088178;
     color: #fff;
+    white-space: nowrap;
 }
 
 
