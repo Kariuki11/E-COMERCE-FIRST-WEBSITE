@@ -552,6 +552,7 @@ footer .col img {
         position: fixed;
         top: 0;
         right: 0px;
+        height: 100vh;
     }
 }
 
