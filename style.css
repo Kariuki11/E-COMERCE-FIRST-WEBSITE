@@ -418,5 +418,10 @@ button.white{
     font-size: 22px;
 }
 
-#newsletter
+#newsletter{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
 
