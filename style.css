@@ -445,7 +445,10 @@ button.white{
     color: #ffbd27;
 }
 
-#newsletter
+#newsletter .form{
+    display: flex;
+    width: 40%;
+}
 
 #newsletter input{
     height: 3.125rem;
@@ -454,12 +457,16 @@ button.white{
     border: 1px solid transparent;
     border-radius: 4px;
     outline: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 #newsletter button{
     background: #088178;
     color: #fff;
     white-space: nowrap;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
 
