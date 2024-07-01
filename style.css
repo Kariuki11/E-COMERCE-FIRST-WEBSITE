@@ -522,7 +522,8 @@ footer .install img{
     margin: 10px 0  15px 0;
 }
 
-footer .follow i:hover{
+footer .follow i:hover
+footer a:hover{
     color: #088178;
 }
 
