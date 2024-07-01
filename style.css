@@ -429,3 +429,16 @@ button.white{
     background-color: rgba(0, 0, 255, 0.769);
 }
 
+#newsletter h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+}
+
+#newsletter p{
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+
