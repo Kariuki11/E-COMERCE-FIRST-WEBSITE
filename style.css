@@ -530,6 +530,11 @@ footer a:hover{
     color: #088178;
 }
 
+footer .copyright{
+    width: 100%;
+    text-align: center;
+}
+
 
 
 footer .col img {
