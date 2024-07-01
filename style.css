@@ -482,6 +482,10 @@ footer .col{
     margin-bottom: 20px;
 }
 
+footer .logo{
+    margin-bottom: 30px;
+}
+
 
 footer .col img {
     max-width: 60px; /* Adjust the size as needed */
