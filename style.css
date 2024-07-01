@@ -542,4 +542,11 @@ footer .col img {
     height: auto;
 }
 
+/* Start Media Query */
+@media (max-width: 799px) {
+    #navbar{
+        display: flex;
+        align-items: center;
+    }
+}
 
