@@ -507,6 +507,18 @@ footer .follow{
     margin-top: 20px;
 }
 
+footer .follow i{
+    color: #465b52;
+    padding-right: 4px;
+    cursor: pointer;
+}
+
+footer .install .row img{
+    border: 1px solid #088178;
+    border-radius: 6px;
+    
+}
+
 
 footer .col img {
     max-width: 60px; /* Adjust the size as needed */
