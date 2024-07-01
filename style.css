@@ -503,7 +503,9 @@ footer a {
     margin: 10px;
 }
 
-footer
+footer .follow{
+    margin-top: 20px;
+}
 
 
 footer .col img {
